@@ -52,6 +52,9 @@ Chisel is powered by [FIRRTL (Flexible Intermediate Representation for RTL)](htt
 
 ---
 
+
+
+
 [![Join the chat at https://gitter.im/freechipsproject/chisel3](https://badges.gitter.im/chipsalliance/chisel3.svg)](https://gitter.im/freechipsproject/chisel3?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 ![CI](https://github.com/chipsalliance/chisel3/actions/workflows/test.yml/badge.svg)
 [![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/chipsalliance/chisel3.svg?include_prereleases&sort=semver)](https://github.com/chipsalliance/chisel3/releases/latest)
